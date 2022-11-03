@@ -39,3 +39,5 @@ console.log(typeof(xSayisi.toString()));//string
 let age = Number("Bir sayı yerine herhangi bir yazı");
 
 alert(age); // NaN, dönüştüremedi!
+
+
